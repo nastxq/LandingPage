@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+@import "config";
+@import "menu";
+@import "hero";
+@import "media";
+@import "animations";
+@import "footer";
+
+body {
+  height: 100vh;
+}
+main {
+  height: 100%;
+  width: 100%;
+}
